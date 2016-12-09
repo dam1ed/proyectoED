@@ -4,6 +4,6 @@
 <title>Mi PAG</title>
 </head>
 <body>
-<h1><center><b>PRUEBA DE PAGINA WEB</b></center></h1>
+<h1><center><b>PRUEBA DE PAGINA WEB 2</b></center></h1>
 </body>
 </html>
